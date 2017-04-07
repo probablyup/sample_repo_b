@@ -1,0 +1,22 @@
+{
+  "name": "sample_repo_b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probablyup/sample_repo_b.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/probablyup/sample_repo_b/issues"
+  },
+  "homepage": "https://github.com/probablyup/sample_repo_b#readme",
+  "dependencies": {
+    "eslint": "^3.19.0"
+  }
+}
